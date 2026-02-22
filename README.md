@@ -32,7 +32,7 @@ app/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/fastapi-task-manager.git
+git clone https://github.com/Carlosbusso/fastapi-task-manager.git
 cd fastapi-task-manager
 
 2. Create virtual environment
